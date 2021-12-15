@@ -28,10 +28,13 @@ Some things that made this take awhile
 - No existing dev environment for laravel.
 - Relearning Laravel since I last used it
 - Understanding the laravel 8 way to do things
-- permision headache
+- file permision headache
 
 Building this app, I wanted to make sure I had a good dev environment to work with.
-I decided to use Laravel Sail, which essentially allowed me to use docker
+I decided to use Laravel Sail, which essentially allowed me to use docker.
+
+If I was to rebuild this now, with a working dev environment and after all the documentation I have read, I probably could manage it in a couple of hours.
+
 
 ## Things to improve
 
